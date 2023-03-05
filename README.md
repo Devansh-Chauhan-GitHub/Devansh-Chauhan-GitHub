@@ -1,7 +1,7 @@
 <img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/software_text_1.jpg">
 <h1 align="center">Hi 👋, I'm Devansh Chauhan</h1>
 <h3 align="center">A Passionate C++ Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 🔭 I’m currently working on C++ and DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
 
 
