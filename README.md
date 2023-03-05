@@ -18,6 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Devansh-Chauhan-GitHub&icon=9&color=10)](https://visitcount.itsvg.in)
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
