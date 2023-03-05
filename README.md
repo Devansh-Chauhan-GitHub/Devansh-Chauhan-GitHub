@@ -1,4 +1,4 @@
-<img src="[https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner.png](https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/software_text_1.jpg)">
+<img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner.png">
 <h1 align="center">Hi 👋, I'm Devansh Chauhan</h1>
 <h3 align="center">A Passionate C++ Developer</h3>
 🔭 I’m currently working on C++ and DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
