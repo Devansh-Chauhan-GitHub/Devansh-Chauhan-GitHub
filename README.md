@@ -1,6 +1,6 @@
 <img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner.png">
 
-🔭 I’m currently working on C++ DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
+🔭 I’m currently working on C++ and DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
 
 
 ## 🌐 Socials:
