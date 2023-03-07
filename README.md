@@ -14,6 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-Chauhan-GitHub&show_icons=true&theme=radical)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Devansh-Chauhan-GitHub&theme=radical)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Chauhan-GitHub&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devansh-Chauhan-GitHub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
