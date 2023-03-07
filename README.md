@@ -16,8 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Chauhan-GitHub&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devansh-Chauhan-GitHub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devansh-Chauhan-GitHub&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 [![](https://visitcount.itsvg.in/api?id=Devansh-Chauhan-GitHub&icon=9&color=10)](https://visitcount.itsvg.in)
 
