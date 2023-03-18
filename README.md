@@ -18,6 +18,5 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devansh-Chauhan-GitHub&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-[![](https://visitcount.itsvg.in/api?id=Devansh-Chauhan-GitHub&icon=9&color=10)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=Devansh-Chauhan-GitHub&color=ff69b4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
