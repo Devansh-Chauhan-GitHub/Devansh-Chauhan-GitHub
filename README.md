@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*0X3LjRjAsH8VinsZ.gif" height="150" >
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679550965907/a929515b-97b9-4328-915c-37ee2830b263.gif" >
 <img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/name.svg">
 <h3 align="center">DEVOPS ENTHUSIAST</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
