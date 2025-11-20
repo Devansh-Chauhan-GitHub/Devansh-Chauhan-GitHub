@@ -92,7 +92,7 @@
     <img src="devops1.gif" style="max-width: 100%; height: auto; width: 60%;" alt="Centered Image"/> 
   </a> 
   </p>
-<hr>
+
 
 
 
