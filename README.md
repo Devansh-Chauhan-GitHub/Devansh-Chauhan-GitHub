@@ -2,7 +2,18 @@
 <img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/name.svg">
 <h3 align="center">DEVOPS ENTHUSIAST</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
-I'm Devansh Chauhan, an aspiring DevOps & Cloud Infrastructure Engineer with hands-on experience in CI/CD pipelines, Docker, Kubernetes, AWS, Terraform, Ansible, and Linux. I enjoy building automated, production-like setups—from Jenkins-based pipelines and Kubernetes deployments to Infrastructure as Code provisioning and monitoring with Prometheus & Grafana. I’m passionate about solving real-world problems through automation, improving system reliability, and continuously learning cloud-native tools to grow into a strong DevOps/SRE professional.
+<introduction>
+  I'm <b>Devansh Chauhan</b>, an aspiring <b>DevOps &amp; Cloud Infrastructure Engineer</b> 
+  with hands-on experience in <b>CI/CD pipelines</b>, <b>Docker</b>, <b>Kubernetes</b>, 
+  <b>AWS</b>, <b>Terraform</b>, <b>Ansible</b>, and <b>Linux</b>. 
+  I enjoy building automated, production-like setups—from 
+  <b>Jenkins-based pipelines</b> and <b>Kubernetes deployments</b> to 
+  <b>Infrastructure as Code</b> provisioning and <b>monitoring with Prometheus &amp; Grafana</b>. 
+  I’m passionate about solving real-world problems through <b>automation</b>, 
+  improving <b>system reliability</b>, and continuously learning cloud-native tools 
+  to grow into a strong <b>DevOps/SRE professional</b>.
+</introduction>
+
 
 
 
