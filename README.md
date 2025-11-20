@@ -76,10 +76,7 @@
     <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024" height="90" />
   </a>
 
-  <!-- AWS GIF -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="90" />
-  </a>
+
 
   <!-- NEW GCP GIF -->
   <a href="https://cloud.google.com/" target="_blank">
