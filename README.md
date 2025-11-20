@@ -2,7 +2,7 @@
 <img src="https://github.com/Devansh-Chauhan-GitHub/Devansh-Chauhan-GitHub/blob/main/name.svg">
 <h3 align="center">DEVOPS ENTHUSIAST</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
-🔭 I’m currently working on C++ and DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
+I'm Devansh Chauhan, an aspiring DevOps & Cloud Infrastructure Engineer with hands-on experience in CI/CD pipelines, Docker, Kubernetes, AWS, Terraform, Ansible, and Linux. I enjoy building automated, production-like setups—from Jenkins-based pipelines and Kubernetes deployments to Infrastructure as Code provisioning and monitoring with Prometheus & Grafana. I’m passionate about solving real-world problems through automation, improving system reliability, and continuously learning cloud-native tools to grow into a strong DevOps/SRE professional.
 
 
 
