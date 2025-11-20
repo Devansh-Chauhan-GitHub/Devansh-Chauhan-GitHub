@@ -5,12 +5,10 @@
 🔭 I’m currently working on C++ and DSA<br>🤝 I’m looking for help with DSA Codes<br>🌱 I’m currently learning<br>💬 Ask me about Programming<br>⚡ LEVEL UP
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-chauhan-2b13581a1) 
 
 ## <p align="center"> 🌐 Socials</p>
-<div align="center"> <!-- Email --> <a href="mailto:devanshchauhan.work@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo" /> </a> 
-<!-- LinkedIn --> <a href="https://www.linkedin.com/in/devansh-chauhan-556338253/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" /> </a>
+<div align="center"> <!-- Email --> <a href="mailto:chauhandevansh9@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo" /> </a> 
+<!-- LinkedIn --> <a href="https://www.linkedin.com/in/devansh-chauhan-resume-profile/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" /> </a>
 </a> </div>
 
 
