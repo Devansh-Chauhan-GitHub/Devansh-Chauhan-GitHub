@@ -67,17 +67,27 @@
   </a>
  </p>
   
-### Cloud
-  
- <p float="left">
-  <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank" >
-    <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024"  height="90" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="90" />
+### 🌩️ Cloud
+
+<p float="left">
+
+  <!-- AWS Glitch Logo -->
+  <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" target="_blank">
+    <img src="https://techcrunch.com/wp-content/uploads/2021/12/aws-logo-glitch.gif?w=1024" height="90" />
   </a>
- </p>
+
+  <!-- AWS GIF -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="90" />
+  </a>
+
+  <!-- NEW GCP GIF -->
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZLz5_RimZDpT0myTt-dgZQ.gif" height="90" />
+  </a>
+
 </p>
+
 
 <HR>
 <p align="center">
