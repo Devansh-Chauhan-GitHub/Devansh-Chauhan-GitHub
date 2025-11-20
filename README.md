@@ -83,7 +83,7 @@
 
   <!-- NEW GCP GIF -->
   <a href="https://cloud.google.com/" target="_blank">
-    <img src="[https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZLz5_RimZDpT0myTt-dgZQ.gif](https://miro.medium.com/v2/resize:fit:640/format:webp/0*61KyQpF6qQknXXa-.gif)" height="90" />
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*61KyQpF6qQknXXa-.gif" height="90" />
   </a>
 
 </p>
