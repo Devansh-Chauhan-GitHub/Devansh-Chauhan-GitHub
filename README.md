@@ -8,7 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-chauhan-2b13581a1) 
 
-
+<p align="center">🌐 Socials</p>
+<div align="center"> <!-- Email --> <a href="mailto:devanshchauhan.work@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="50" alt="gmail logo" /> </a> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/devansh-chauhan-556338253/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="50" alt="linkedin logo" /> </a> <!-- Instagram --> <a href="https://www.instagram.com/its_devanshchauhan/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="50" alt="instagram logo" /> </a> <!-- Telegram --> <a href="https://t.me/devanshchauhan"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="50" alt="telegram logo" /> </a> <!-- GitHub --> <a href="https://github.com/Devansh-Chauhan-GitHub"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="55" height="50" alt="github logo" /> </a> </div>
 
 
 
