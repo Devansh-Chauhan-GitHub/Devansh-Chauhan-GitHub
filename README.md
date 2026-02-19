@@ -99,9 +99,7 @@
 
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-Chauhan-GitHub&show_icons=true&theme=radical)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Devansh-Chauhan-GitHub&theme=radical)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Chauhan-GitHub&layout=compact&theme=radical)]
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
